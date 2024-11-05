@@ -1,0 +1,21 @@
+{
+  "id": "chatcmpl-139975138632816",
+  "object": "chat.completion",
+  "created": 1730807282,
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "A group of researchers has launched a new model for translation-related tasks."
+      },
+      "logprobs": null,
+      "finish_reason": "eos_token"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 41,
+    "completion_tokens": 16,
+    "total_tokens": 57
+  }
+}

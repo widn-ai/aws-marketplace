@@ -1,0 +1,10 @@
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Translate the following text from Portuguese into English.\n Portuguese: Um grupo de investigadores lançou um novo modelo para tarefas relacionadas com tradução.\n English:"
+      }
+    ],
+    "max_tokens": 256,
+    "temperature": 0.0
+  }
